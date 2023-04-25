@@ -6,7 +6,7 @@ If you use the app please cite our paper:
 > Andreas Patsalos, Laszlo Halasz, Xiaoyan Wei, Darby Oleksak, Cornelius Fischer, David W. Hammers, Lee Sweeney, Laszlo Nagy et al. Spatiotemporal macrophage subtype specification guides the formation of damage-clearing and regenerative inflammation tissue zones in physiological and chronic injury. Journal (2023) https://doi.org/asfasdfa
 
 # Features
-- Visalization of spatial gene expression.
+- Visualization of spatial gene expression.
 - Supervised subspot labelling to define tissue zones.
 - Extraction and visualization of normalized gene expression for tissue zones.
 
