@@ -32,7 +32,7 @@ shiny::runApp()
 ```
 
 # Introduction
-This app allows users to manually define regions of interest (ROIs; tissue zones) and extract/visualize gene expression for a list of genes for Visium spatial transcriptomics data analyzed by BayesSpace (subspot resolution).
+This app allows users to manually define regions of interest (ROIs; tissue zones) and extract/visualize gene expression for a list of genes for Visium spatial transcriptomics data analyzed by BayesSpace at subspot resolution.
 
 <figure>
 <img src="./www/SpatialZoneR.png" alt="SpatialZoneR" />
